@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\haui",
+    "\\src\\main\\java\\com\\haui\\coffee_shop",
+    "\\src\\main\\java\\com\\haui\\coffee_shop\\common",
+    "\\src\\main\\java\\com\\haui\\coffee_shop\\common\\enums",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\haui",
+    "\\src\\test\\java\\com\\haui\\coffee_shop"
+  ],
+  "SelectedNode": "\\src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java",
+  "PreviewInSolutionExplorer": false
+}

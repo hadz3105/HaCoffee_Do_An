@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\src\\main\\java\\com\\haui\\coffee_shop\\common\\Constant.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\haui\\coffee_shop\\common\\Constant.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeShopApplicationTests.java",
+              "DocumentMoniker": "E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java",
+              "RelativeDocumentMoniker": "src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java",
+              "ToolTip": "E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java",
+              "RelativeToolTip": "src\\test\\java\\com\\haui\\coffee_shop\\CoffeeShopApplicationTests.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-09-14T08:55:22.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constant.java",
+              "DocumentMoniker": "E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\src\\main\\java\\com\\haui\\coffee_shop\\common\\Constant.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\haui\\coffee_shop\\common\\Constant.java",
+              "ToolTip": "E:\\CNTT_2021608148_Ho_Hai_Ha_chuong_trinh\\Backend\\src\\main\\java\\com\\haui\\coffee_shop\\common\\Constant.java",
+              "RelativeToolTip": "src\\main\\java\\com\\haui\\coffee_shop\\common\\Constant.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-09-14T08:55:05.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
